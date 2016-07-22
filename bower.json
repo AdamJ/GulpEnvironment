@@ -3,8 +3,8 @@
   "private": true,
   "dependencies": {
     "bootstrap": "latest",
-    "jquery": "2.2.0",
-    "font-awesome": "4.5.0",
+    "jquery": "~3.1.0",
+    "font-awesome": "~4.6.3",
     "html5shiv": "3.7.3",
     "Hover": "2.0.2"
   }
