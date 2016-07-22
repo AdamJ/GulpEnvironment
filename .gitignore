@@ -1,1 +1,5 @@
+# Ignore local Bower packages
+bower_components/
+
+# Ignore local nodejs packages
 node_modules/
